@@ -1,2 +1,4 @@
 __pycache__
 .DS_Store
+aws_lambda_functions.json
+aws_lambda_layers.json
